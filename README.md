@@ -1,20 +1,24 @@
 # JavaScript-Projects
-This repository is your gateway to a diverse collection of JavaScript mini-projects, spanning from beginner-friendly exercises to advanced challenges. 🌟 Each project comes with clear instructions and explanations, making it easy for learners at any level to follow along and expand their skills. 🚀
+This Repo provide source code for my instagram post. This repository is your gateway to a diverse collection of JavaScript mini-projects, spanning from beginner-friendly exercises to advanced challenges. 🌟 Each project comes with clear instructions and explanations, making it easy for learners at any level to follow along and expand their skills. 🚀
 
-## 🔨 Beginner Level: ( Coming Soon )
+<h2>This Repo is a part of 100-Days-Challenge of Instagram Post.</h2>
+
+## 🔨 Beginner Level: ( Progress )
 
 | Project Name       | Source Code                                         | Live Demo                                                |
 | ------------------ | --------------------------------------------------- | -------------------------------------------------------- |
-| Simple Calculator  | [Source Code]  | [Live Demo] |
-| To-Do List         | [Source Code]  | [Live Demo] |
-| Tip Calculator     | [Source Code]  | [Live Demo] |
-| Age Calculator     | [Source Code]  | [Live Demo] |
-| BMI Calculator     | [Source Code]  | [Live Demo] |
-| Digital Clock      | [Source Code]  | [Live Demo] |
-| Analog Clock       | [Source Code]  | [Live Demo] |
-| Alarm Clock        | [Source Code]  | [Live Demo] |
-| Pomodoro Timer     | [Source Code]  | [Live Demo] |
-| Stopwatch          | [Source Code]  | [Live Demo] |
+| Download Button           | [Source Code]  | [Live Demo] |
+| Magic Navigation Menu     | [Source Code]  | [Live Demo] |
+| Simple Calculator         | [Source Code]  | [Live Demo] |
+| To-Do List                | [Source Code]  | [Live Demo] |
+| Tip Calculator            | [Source Code]  | [Live Demo] |
+| Age Calculator            | [Source Code]  | [Live Demo] |
+| BMI Calculator            | [Source Code]  | [Live Demo] |
+| Digital Clock             | [Source Code]  | [Live Demo] |
+| Analog Clock              | [Source Code]  | [Live Demo] |
+| Alarm Clock               | [Source Code]  | [Live Demo] |
+| Pomodoro Timer            | [Source Code]  | [Live Demo] |
+| Stopwatch                 | [Source Code]  | [Live Demo] |
 
 ## 🔥 Intermediate Level: ( Coming Soon )
 
