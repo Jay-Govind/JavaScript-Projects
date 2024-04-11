@@ -9,7 +9,7 @@ const setClock = () => {
       let mm = day.getMinutes() * deg;
       let ss = day.getSeconds() * deg;
 
-      hour.style.transform = `rotateZ($(hh + mm / 12)deg)`;
+      hour.style.transform = `rotateZ(${hh + mm / 12}deg)`;
       min.style.transform = `rotateZ(${mm}deg)`;
       sec.style.transform = `rotateZ(${ss}deg)`;
 }
