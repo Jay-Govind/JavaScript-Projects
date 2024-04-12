@@ -7,15 +7,15 @@ This Repo provide source code for my instagram post. This repository is your gat
 
 | Project Name       | Source Code                                         | Live Demo                                                |
 | ------------------ | --------------------------------------------------- | -------------------------------------------------------- |
-| Download Button           | [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/938c8a416235a3015d6cbde4bab8cc7cf3551938/Analog_Clock)  | [Live Demo](https://jay-govind.github.io/JavaScript-Projects/Analog_Clock/) |
-| Magic Navigation Menu     | [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/8b9d7d445d5edaea20d421275c51b1e147f64f3e/Tip_Calculator)  | [Live Demo](https://jay-govind.github.io/JavaScript-Projects/Tip_Calculator/) |
+| Analog Clock       | [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/938c8a416235a3015d6cbde4bab8cc7cf3551938/Analog_Clock)  | [Live Demo](https://jay-govind.github.io/JavaScript-Projects/Analog_Clock/) |
+| Tip Calculator     | [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/8b9d7d445d5edaea20d421275c51b1e147f64f3e/Tip_Calculator)  | [Live Demo](https://jay-govind.github.io/JavaScript-Projects/Tip_Calculator/) |
 | Simple Calculator         | [Source Code]  | [Live Demo] |
 | To-Do List                | [Source Code]  | [Live Demo] |
-| Tip Calculator            | [Source Code]  | [Live Demo] |
+| Magic Navigation Menu     | [Source Code]  | [Live Demo] |
 | Age Calculator            | [Source Code]  | [Live Demo] |
 | BMI Calculator            | [Source Code]  | [Live Demo] |
 | Digital Clock             | [Source Code]  | [Live Demo] |
-| Analog Clock              | [Source Code]  | [Live Demo] |
+| Download Button           | [Source Code]  | [Live Demo] |
 | Alarm Clock               | [Source Code]  | [Live Demo] |
 | Pomodoro Timer            | [Source Code]  | [Live Demo] |
 | Stopwatch                 | [Source Code]  | [Live Demo] |
@@ -46,6 +46,9 @@ Are you ready to embark on this exciting adventure of mastering web development 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
 </a>
 <a href="https://www.youtube.com/@jaygovindofficial751"> 
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
+</a>
+<a href="https://www.youtube.com/@devwithgovind"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a>
 <a href="https://www.instagram.com/devwithgovind"> 
