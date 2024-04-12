@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Tip Calculator | devwithgovind</title>
+      <link rel="stylesheet" href="style.css">
+</head>
+<body>
+      <form>
+            <div class="input">
+                  <div>
+                        <label for="billAmount">Bill Amount: </label>
+                        <input type="number" id="billAmount" placeholder="$ 00.00">
+                  </div>
+                  <div>
+                        <label for="tipPercentage">Tip Percentage: </label>
+                        <select id="tipPercentage">
+                              <option value="0.05">5%</option>
+                              <option value="0.1">10%</option>
+                              <option value="0.15">15%</option>
+                              <option value="0.20">20%</option>
+                        </select>
+                  </div>
+            </div>
+            <button type="button" id="calculateBtn">Calculate Tips</button>
+            <div class="totalAmount">
+                  <span>Total Amount : $
+                        <span id="cash">00:00</span>
+                  </span>
+            </div>
+      </form>
+
+      <div class="attribute"> Created by 
+            <a href="https://bento.me/code-with-govind" target="_blank">
+                  JAY GOVIND KUMAR 
+            </a>
+      </div>
+      <script src="script.js"></script>
+</body>
+</html>
