@@ -11,7 +11,7 @@ const emojis = [
       "🐒", "🐔", "🐧", "🐦", "🐤", "🐣", "🐥", "🦆", "🦅", "🦉",
       "🦇", "🐺", "🐗", "🐴", "🦄", "🐝", "🐛", "🦋", "🐌", "🐞"
       // Add more emojis 
-];
+]
 
 const btn = document.querySelector(".btn");
 const emoji = document.querySelector(".emoji");
