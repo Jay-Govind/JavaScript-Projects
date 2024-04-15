@@ -9,7 +9,7 @@ This Repo provide source code for my instagram post. This repository is your gat
 | ------------------ | --------------------------------------------------- | -------------------------------------------------------- |
 | Analog Clock       | [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/938c8a416235a3015d6cbde4bab8cc7cf3551938/Analog_Clock)  | [Live Demo](https://jay-govind.github.io/JavaScript-Projects/Analog_Clock/) |
 | Tip Calculator     | [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/8b9d7d445d5edaea20d421275c51b1e147f64f3e/Tip_Calculator)  | [Live Demo](https://jay-govind.github.io/JavaScript-Projects/Tip_Calculator/) |
-| Simple Calculator         | [Source Code]  | [Live Demo] |
+| Random Joke Generator     | [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/060e3bfeb197d4ef5372f98eb64e9a187626b887/Random_Joke_Generator)  | [Live Demo](https://jay-govind.github.io/JavaScript-Projects/Random_Joke_Generator/) |
 | To-Do List                | [Source Code]  | [Live Demo] |
 | Magic Navigation Menu     | [Source Code]  | [Live Demo] |
 | Age Calculator            | [Source Code]  | [Live Demo] |
@@ -19,16 +19,11 @@ This Repo provide source code for my instagram post. This repository is your gat
 | Alarm Clock               | [Source Code]  | [Live Demo] |
 | Pomodoro Timer            | [Source Code]  | [Live Demo] |
 | Stopwatch                 | [Source Code]  | [Live Demo] |
-
-## 🔥 Intermediate Level: ( Coming Soon )
-
-| Project Name           | Source Code                                       | Live Demo                                                       
-| ---------------------- | ------------------------------------------------- | -------------------------------------------------------- |
-| Currency Converter     | [Source Code] | [Live Demo] |
-| Length Converter       | [Source Code] | [Live Demo] |
-| Weight Converter       | [Source Code] | [Live Demo] |
-| Data Size Converter    | [Source Code] | [Live Demo] |
-| Color Generator        | [Source Code] | [Live Demo] |
+| Currency Converter        | [Source Code]  | [Live Demo] |
+| Length Converter          | [Source Code]  | [Live Demo] |
+| Weight Converter          | [Source Code]  | [Live Demo] |
+| Data Size Converter       | [Source Code]  | [Live Demo] |
+| Color Generator           | [Source Code]  | [Live Demo] |
 
 For more resources and inspiration, check out websites like W3Schools, MDN Web Docs. These platforms offer comprehensive guides, tutorials, and code examples to support your learning journey. 📚💡
 

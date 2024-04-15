@@ -8,7 +8,7 @@
 - [Contact](#contact)
 
 ## Project Overview:
-- [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/      938c8a416235a3015d6cbde4bab8cc7cf3551938/Analog_Clock)
+- [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/060e3bfeb197d4ef5372f98eb64e9a187626b887/Random_Joke_Generator)
 - [Live demo](https://jay-govind.github.io/JavaScript-Projects/Random_Joke_Generator/)
 
 This project aims to provide a `Random Joke` using HTML, CSS, and JavaScript. API call is not used in this code.
