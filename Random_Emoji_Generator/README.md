@@ -8,7 +8,7 @@
 - [Contact](#contact)
 
 ## Project Overview:
-- [Source Code]()
+- [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/7e75e34d6d3ca902fa6d40651f112c995b823094/Random_Emoji_Generator)
 - [Live demo](https://jay-govind.github.io/JavaScript-Projects/Random_Emoji_Generator/)
 
 This project aims to provide a `Random Emoji` using HTML, CSS, and JavaScript. API call is not used in this code.
