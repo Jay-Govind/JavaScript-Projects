@@ -3,7 +3,7 @@ This Repo provide source code for my instagram post. This repository is your gat
 
 <h2>This Repo is a part of 100-Days-Challenge of Instagram Post.</h2>
 
-## 🔨 Beginner Level: ( Progress )
+## 🔨 List of Projects
 
 | Project Name       | Source Code                                         | Live Demo                                                |
 | ------------------ | --------------------------------------------------- | -------------------------------------------------------- |
