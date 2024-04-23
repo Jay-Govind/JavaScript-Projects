@@ -14,7 +14,7 @@ This Repo provide source code for my instagram post. This repository is your gat
 | Tip Calculator            | [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/8b9d7d445d5edaea20d421275c51b1e147f64f3e/Tip_Calculator)         | [Live Demo](https://jay-govind.github.io/JavaScript-Projects/Tip_Calculator/) |
 | Random Joke Generator     | [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/060e3bfeb197d4ef5372f98eb64e9a187626b887/Random_Joke_Generator)  | [Live Demo](https://jay-govind.github.io/JavaScript-Projects/Random_Joke_Generator/) |
 | Random Emoji Generator    | [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/7e75e34d6d3ca902fa6d40651f112c995b823094/Random_Emoji_Generator) | [Live Demo](https://jay-govind.github.io/JavaScript-Projects/Random_Emoji_Generator/) |
-| Magic Navigation Menu     | [Source Code]  | [Live Demo] |
+| Calculator                | [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/5d2ac2bde5835c3c8756be3eb46f4fe35331a8b6/Calculator)  | [Live Demo](https://jay-govind.github.io/JavaScript-Projects/Calculator/) |
 | Age Calculator            | [Source Code]  | [Live Demo] |
 | BMI Calculator            | [Source Code]  | [Live Demo] |
 | Digital Clock             | [Source Code]  | [Live Demo] |
