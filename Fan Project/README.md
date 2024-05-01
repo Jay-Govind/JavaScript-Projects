@@ -8,7 +8,7 @@
 - [Contact](#contact)
 
 ## Project Overview:
-- [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/e3d58702803fcdd8bafd85d22ae5f11174d90f99/Infinite%20Pagination)
+- [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/a854be2bec0df2076d7663abce418cd8491951e8/Fan%20Project)
 - [Live demo](https://jay-govind.github.io/JavaScript-Projects/Fan%20Project/)
 
 This is a simple Fan Project using HTML, CSS, and JavaScript. In this project, we are creating a fan with some functionality like speed coontrol with buttons.
