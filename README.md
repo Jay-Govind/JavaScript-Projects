@@ -17,7 +17,7 @@ This Repo provide source code for my instagram post. This repository is your gat
 | Calculator                | [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/5d2ac2bde5835c3c8756be3eb46f4fe35331a8b6/Calculator)  | [Live Demo](https://jay-govind.github.io/JavaScript-Projects/Calculator/) |
 | On-Off Bulb               | [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/684a4bab165a55707adb8f97a4bed4099588b5ad/On-Off%20Bulb)  | [Live Demo](https://jay-govind.github.io/JavaScript-Projects/On-Off%20Bulb/) |
 | Infinite Pagination       | [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/e3d58702803fcdd8bafd85d22ae5f11174d90f99/Infinite%20Pagination)  | [Live Demo](https://jay-govind.github.io/JavaScript-Projects/Infinite%20Pagination/) |
-| Digital Clock             | [Source Code]  | [Live Demo] |
+| Fan Project               | [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/a854be2bec0df2076d7663abce418cd8491951e8/Fan%20Project)  | [Live Demo](https://jay-govind.github.io/JavaScript-Projects/Fan%20Project/) |
 | Download Button           | [Source Code]  | [Live Demo] |
 | Alarm Clock               | [Source Code]  | [Live Demo] |
 | Pomodoro Timer            | [Source Code]  | [Live Demo] |
