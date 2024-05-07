@@ -17,16 +17,10 @@ This Repo provide source code for my instagram post. This repository is your gat
 | Calculator                | [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/5d2ac2bde5835c3c8756be3eb46f4fe35331a8b6/Calculator)  | [Live Demo](https://jay-govind.github.io/JavaScript-Projects/Calculator/) |
 | On-Off Bulb               | [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/684a4bab165a55707adb8f97a4bed4099588b5ad/On-Off%20Bulb)  | [Live Demo](https://jay-govind.github.io/JavaScript-Projects/On-Off%20Bulb/) |
 | Infinite Pagination       | [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/e3d58702803fcdd8bafd85d22ae5f11174d90f99/Infinite%20Pagination)  | [Live Demo](https://jay-govind.github.io/JavaScript-Projects/Infinite%20Pagination/) |
-| Digital Clock             | [Source Code]  | [Live Demo] |
-| Download Button           | [Source Code]  | [Live Demo] |
-| Alarm Clock               | [Source Code]  | [Live Demo] |
-| Pomodoro Timer            | [Source Code]  | [Live Demo] |
-| Stopwatch                 | [Source Code]  | [Live Demo] |
-| Currency Converter        | [Source Code]  | [Live Demo] |
-| Length Converter          | [Source Code]  | [Live Demo] |
-| Weight Converter          | [Source Code]  | [Live Demo] |
-| Data Size Converter       | [Source Code]  | [Live Demo] |
-| Color Generator           | [Source Code]  | [Live Demo] |
+| Dynamic Calender          | [Source Code]  | [Live Demo](https://jay-govind.github.io/JavaScript-Projects/Dynamic%20Calender/) |
+| Barcode Generator         | [Source Code]  | [Live Demo] |
+| Menu Toggle               | [Source Code]  | [Live Demo] |
+
 
 For more resources and inspiration, check out websites like W3Schools, MDN Web Docs. These platforms offer comprehensive guides, tutorials, and code examples to support your learning journey. 📚💡
 
