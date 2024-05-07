@@ -8,7 +8,7 @@
 - [Contact](#contact)
 
 ## Project Overview:
-- [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/a8f6e4afa3e46d0ea715825efffca7f1c09d83ef/Dynamic%20Calender) |
+- [Source Code][Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/a8f6e4afa3e46d0ea715825efffca7f1c09d83ef/Dynamic%20Calender)
 - [Live demo](https://jay-govind.github.io/JavaScript-Projects/Dynamic%20Calender/)
 
 
