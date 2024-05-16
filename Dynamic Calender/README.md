@@ -8,7 +8,7 @@
 - [Contact](#contact)
 
 ## Project Overview:
-- [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/5d7f8214342858ce9ec2dd4c7bb7a9f5d750b15e/Dynamic%20Calender) |
+- [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/5d7f8214342858ce9ec2dd4c7bb7a9f5d750b15e/Dynamic%20Calender) 
 - [Live demo](https://jay-govind.github.io/JavaScript-Projects/Dynamic%20Calender/)
 
 This project aims to create adynamic calender using HTML, CSS, and JavaScript. The calender will show you current date with highlight and you can also change months.

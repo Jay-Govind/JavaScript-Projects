@@ -8,7 +8,7 @@
 - [Contact](#contact)
 
 ## Project Overview:
-- [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/8b9d7d445d5edaea20d421275c51b1e147f64f3e/Tip_Calculator) |
+- [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/8b9d7d445d5edaea20d421275c51b1e147f64f3e/Tip_Calculator)
 - [Live demo](https://jay-govind.github.io/JavaScript-Projects/Tip_Calculator/)
 
 This project aims to create a tip calculator using HTML, CSS, and JavaScript. The tip calculator will display the total amount after calculating the tip amount according to the selected percentage for tip.

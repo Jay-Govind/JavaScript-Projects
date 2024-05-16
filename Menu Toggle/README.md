@@ -8,7 +8,7 @@
 - [Contact](#contact)
 
 ## Project Overview:
-- [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/5d7f8214342858ce9ec2dd4c7bb7a9f5d750b15e/Menu%20Toggle) |
+- [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/5d7f8214342858ce9ec2dd4c7bb7a9f5d750b15e/Menu%20Toggle) 
 - [Live demo](https://jay-govind.github.io/JavaScript-Projects/Menu%20Toggle/)
 
 This project aims to create a simple menu toggle with HTML, CSS and JAVASCRIPT.

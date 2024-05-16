@@ -8,7 +8,7 @@
 - [Contact](#contact)
 
 ## Project Overview:
-- [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/7fdb0ab7ad68844fd9f82ec666f8c41cbd8c7b84/CardFlip%20Game) 
+- [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/51279d1cddb34e6a8be31c2a609462617c980479/CardFlip%20Game)
 - [Live demo](https://jay-govind.github.io/JavaScript-Projects/CardFlip%20Game/)
 
 This project aims to create a simple card flip game using html, css and javascript.
