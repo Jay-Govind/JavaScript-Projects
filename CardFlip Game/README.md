@@ -8,7 +8,7 @@
 - [Contact](#contact)
 
 ## Project Overview:
-- [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/5d7f8214342858ce9ec2dd4c7bb7a9f5d750b15e/Menu%20Toggle) |
+- [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/7fdb0ab7ad68844fd9f82ec666f8c41cbd8c7b84/CardFlip%20Game) 
 - [Live demo](https://jay-govind.github.io/JavaScript-Projects/CardFlip%20Game/)
 
 This project aims to create a simple card flip game using html, css and javascript.
