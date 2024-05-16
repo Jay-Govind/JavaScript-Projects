@@ -24,6 +24,13 @@ This Repo provide source code for my instagram post. This repository is your gat
 
 
 
+## 🔨 Games
+
+| Name of the Game   | Source Code                                         | Live Demo                                                |
+| ------------------ | --------------------------------------------------- | -------------------------------------------------------- |
+| CardFlip Game      | [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/7fdb0ab7ad68844fd9f82ec666f8c41cbd8c7b84/CardFlip%20Game)   | [Live Demo](https://jay-govind.github.io/JavaScript-Projects/CardFlip%20Game/) |
+
+
 For more resources and inspiration, check out websites like W3Schools, MDN Web Docs. These platforms offer comprehensive guides, tutorials, and code examples to support your learning journey. 📚💡
 
 Are you ready to embark on this exciting adventure of mastering web development skills? Stay tuned as we unveil each project and guide you through the step-by-step process. Let's code our way to success! 💪🌐
