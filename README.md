@@ -30,6 +30,7 @@ This Repo provide source code for my instagram post. This repository is your gat
 | Name of the Game   | Source Code                                         | Live Demo                                                |
 | ------------------ | --------------------------------------------------- | -------------------------------------------------------- |
 | CardFlip Game      | [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/7fdb0ab7ad68844fd9f82ec666f8c41cbd8c7b84/CardFlip%20Game)   | [Live Demo](https://jay-govind.github.io/JavaScript-Projects/CardFlip%20Game/) |
+| Memory Game        | [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/e37151c668f4a7e637210ee13f24d5efe305d938/Memory%20Game)   | [Live demo](https://jay-govind.github.io/JavaScript-Projects/Memory%20Game/) |
 
 
 For more resources and inspiration, check out websites like W3Schools, MDN Web Docs. These platforms offer comprehensive guides, tutorials, and code examples to support your learning journey. 📚💡
