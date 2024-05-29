@@ -8,7 +8,7 @@
 - [Contact](#contact)
 
 ## Project Overview:
-- [Source Code]
+- [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/e37151c668f4a7e637210ee13f24d5efe305d938/Memory%20Game)
 - [Live demo](https://jay-govind.github.io/JavaScript-Projects/Memory%20Game/)
 
 This project aims to create a simple card flip game using html, css and javascript.
