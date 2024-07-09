@@ -1,10 +1,22 @@
 # JavaScript-Projects
-This Repo provide source code for my instagram post. This repository is your gateway to a diverse collection of JavaScript mini-projects, spanning from beginner-friendly exercises to advanced challenges. 🌟 Each project comes with clear instructions and explanations, making it easy for learners at any level to follow along and expand their skills. 🚀
+> This Repo provide source code for my instagram post. This repository is your gateway to a diverse collection of JavaScript mini-projects, spanning from beginner-friendly exercises to advanced challenges. 🌟 Each project comes with clear instructions and explanations, making it easy for learners at any level to follow along and expand their skills. 🚀
+
+<br>
+
+# Clone the repo in your Pc 💻
+> Copy & Run the below command in your terminal
+> ```
+> git clone https://github.com/Jay-Govind/JavaScript-Projects.git
+> ```
+
+<br>
 
 <h2>This Repo is a part of 100-Days-Challenge of Instagram Post.</h2>
 
 | Some Code are available in HTML-CSS Projects repo | [Click Me](https://github.com/Jay-Govind/HTML-CSS-Projects.git) |
 | --------------------------------------------------- | ----------------------------------------------------------------- |
+
+<br>
 
 ## 🔨 List of Projects
 
@@ -32,12 +44,12 @@ This Repo provide source code for my instagram post. This repository is your gat
 | CardFlip Game      | [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/7fdb0ab7ad68844fd9f82ec666f8c41cbd8c7b84/CardFlip%20Game)   | [Live Demo](https://jay-govind.github.io/JavaScript-Projects/CardFlip%20Game/) |
 | Memory Game        | [Source Code](https://github.com/Jay-Govind/JavaScript-Projects/tree/e37151c668f4a7e637210ee13f24d5efe305d938/Memory%20Game)   | [Live demo](https://jay-govind.github.io/JavaScript-Projects/Memory%20Game/) |
 
+<br>
 
-For more resources and inspiration, check out websites like W3Schools, MDN Web Docs. These platforms offer comprehensive guides, tutorials, and code examples to support your learning journey. 📚💡
+> For more resources and inspiration, check out websites like W3Schools, MDN Web Docs. These platforms offer comprehensive guides, tutorials, and code examples to support your learning journey. 📚💡
+> You ready to embark on this exciting adventure of mastering web development skills? Stay tuned as we unveil each project and guide you through the step-by-step process. Let's code our way to success! 💪🌐
 
-Are you ready to embark on this exciting adventure of mastering web development skills? Stay tuned as we unveil each project and guide you through the step-by-step process. Let's code our way to success! 💪🌐
-
-## 🌏 **CONNECT WITH ME**
+### 🌏 **CONNECT WITH ME**
 
 <a  href="https://www.linkedin.com/in/govind-jay">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
